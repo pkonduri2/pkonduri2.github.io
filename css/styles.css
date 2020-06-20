@@ -8,19 +8,19 @@ body{
   margin-right: auto;
   margin-top:0;
   position: absolute;
-  bottom: 295px;
+  bottom:18.43rem;
   right: 45%;
 font-family: 'Pacifico', cursive;
-font-size: 25px;
+font-size:1.56rem;
 color: white;
 }
 h1{
   color:#66BFBF;
 }
 .stuff {
-height: 1000px;
+height:62.5rem;
 position: relative;
-bottom: 250px;
+bottom:15.62rem;
 background-color: #d4f3ef;
 }
 p{
@@ -39,22 +39,22 @@ h3{
 hr {
   border-style: dotted none none none;
   border-color:#f0f0f0;
-  height:0px;
-  border-width: 5px;
+  height:0rem;
+  border-width:0.31rem;
   width: 5%;
 }
 .this{
-  height: 168px;
-  width:168px;
+  height:10.5rem;
+  width:10.5rem;
   color:#11999E;
 }
 .computer{
-  height: 200px;
-  width: 200px;
+  height:12.5rem;
+  width: 12.5rem;
 }
 .dance{
-  height: 149px;
-  width: 149px
+  height:9.31rem;
+  width:9.31rem;
 }
 .skill-row{
 width: 50%;
@@ -81,19 +81,19 @@ margin: auto;
     color:#11999E;
 }
 .myButton {
-	box-shadow: 0px 10px 14px -7px #276873;
+	box-shadow: 0px 0.625rem 0.875rem -0.437rem #276873;
 	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
 	background-color:#599bb3;
-	border-radius:8px;
+	border-radius:0.5rem;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
-	font-size:20px;
+	font-size:1.25rem;
 	font-weight:bold;
-	padding:13px 15px;
+	padding:0.812rem 0.937rem;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #3d768a;
+	text-shadow:0rem 0.0625rem 0rem #3d768a;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
@@ -101,5 +101,5 @@ margin: auto;
 }
 .myButton:active {
 	position:relative;
-	top:1px;
+	top:0.0625rem;
 }
